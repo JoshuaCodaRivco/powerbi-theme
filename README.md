@@ -46,7 +46,7 @@ Date are from DateTime.LocalNow() to Date.AddYears(Date.From(DateTime.LocalNow()
 * Create a table and close
 * Open Advanced Editor in the Home tab in Power Query
 ![Relationship](/docs/images/advanced_editor.png)
-* Copy and paste the 4 tables below
+* Copy and paste the 2 tables below
 
 ### Power Query
 1. calendar
