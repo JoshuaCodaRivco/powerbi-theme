@@ -109,7 +109,7 @@ Connect the relationship to the main calendar table. You will use the sort table
 [Visual Vocabulary](https://github.com/Financial-Times/chart-doctor/tree/main/visual-vocabulary)
 [PBIX Example](http://sqljason.com/2018/12/financial-times-visual-vocabulary-power-bi-edition.html)
 
-![Screenshot 4](docs/poster.png)
+![Screenshot 4](docs/images/poster.png)
 ## Contact
 
 If you have questions about the data or project, please contact:
