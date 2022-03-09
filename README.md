@@ -26,7 +26,7 @@ The example has an expansion panel. Go [here](https://exceleratorbi.com.au/creat
 
 
 ## Calendar Enhancement
-Basic copy paste into a Power BI Power Query Editor for ease of use or use the template in this project. One calendar table, sort (by by index) hich will help your charts month year sort.
+Basic copy paste into a Power BI Power Query Editor for ease of use or use the template in this project. One calendar table, sort (by by index) which will help your charts month year sort.
 
 Go into Power BI Desktop and open Transform data. Create new tables with the 2 queries below. Sort columns by numeric values and connect relationship date values to calendar. Calendar date column should have a relationship with raw data. 
 
