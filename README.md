@@ -10,11 +10,13 @@ The theme is inspired by [this example](https://app.powerbi.com/view?r=eyJrIjoiY
 
 The example has an expansion panel. Go [here](https://exceleratorbi.com.au/create-a-power-bi-slicer-panel/) for how to. 
 
+Download more icons at https://materialdesignicons.com/.
+
 ### TODO
 
 - [x] Start a JSON theme for .pbix files
 - [ ] Add logo .png files
-- [ ] Add vector icons and .png to example
+- [x] Add .png to example
 - [ ] Expand theme to include visual objects
 - [ ] Provide a dark theme example
 - [x] Calendar enhancement (Fiscal year, calendar year, & sort tables)
