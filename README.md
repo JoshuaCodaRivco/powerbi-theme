@@ -6,12 +6,6 @@ A JSON theme provided as a theme template.
 3. Open Browse for themes
 4. Select CORTheme1.json 
 
-The theme is inspired by [this example](https://app.powerbi.com/view?r=eyJrIjoiYmU0ZjYzYmItMTE0NC00NTRiLTkwZTYtNDkzZDYwOTA5ZWI5IiwidCI6IjRiYjUwOGE5LTc1MzQtNGY0OC1iOTQxLTNkNDhlZGY5YzM3YSJ9). See Screentshot 3 for inspiriation.
-
-The example has an expansion panel. Go [here](https://exceleratorbi.com.au/create-a-power-bi-slicer-panel/) for how to. 
-
-Download more icons at https://materialdesignicons.com/.
-
 ### TODO
 
 - [x] Start a JSON theme for .pbix files
@@ -108,6 +102,15 @@ Connect the relationship to the main calendar table. You will use the sort table
 ![Relationship 1](/docs/images/relationship_example.png)
 ![Relationship 2](/docs/images/month_sort.png)
 ## Resources
+The theme is inspired by [this example](https://app.powerbi.com/view?r=eyJrIjoiYmU0ZjYzYmItMTE0NC00NTRiLTkwZTYtNDkzZDYwOTA5ZWI5IiwidCI6IjRiYjUwOGE5LTc1MzQtNGY0OC1iOTQxLTNkNDhlZGY5YzM3YSJ9). See Screentshot 3 for inspiriation.
+
+The example has an expansion panel. Go [here](https://exceleratorbi.com.au/create-a-power-bi-slicer-panel/) for how to. 
+
+Download more icons at https://materialdesignicons.com/.
+
+Original dataset available on [Kaggle](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset).
+
+For even more resources see below:
 [Visual Vocabulary](https://github.com/Financial-Times/chart-doctor/tree/main/visual-vocabulary)
 [PBIX Example](http://sqljason.com/2018/12/financial-times-visual-vocabulary-power-bi-edition.html)
 

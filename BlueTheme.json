@@ -1,0 +1,30 @@
+{
+    "name": "County of Riverside",
+    "textClasses": {
+        "callout": {
+            "fontFace": "'Segoe UI', wf_segoe-ui_normal, helvetica, arial, sans-serif"
+        },
+        "title": {
+            "fontFace": "'Segoe UI Bold', wf_segoe-ui_bold, helvetica, arial, sans-serif"
+        },
+        "header": {
+            "fontFace": "'Segoe UI', wf_segoe-ui_normal, helvetica, arial, sans-serif"
+        }
+    },
+    "dataColors": [
+        "#90CAF9",
+        "#64B5F6",
+        "#E3F2FD",
+        "#1E2D38",
+        "#73788B",
+        "#F6F8FC",
+        "#B4BAC3",
+        "#232448"
+    ],
+    "bad": "#E3F2FD",
+    "neutral": "#90CAF9",
+    "good": "#64B5F6",
+    "minimum": "#E3F2FD",
+    "center": "#90CAF9",
+    "maximum": "#64B5F6"
+}
